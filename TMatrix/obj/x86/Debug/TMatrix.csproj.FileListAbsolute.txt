@@ -1,0 +1,6 @@
+C:\Users\Anna\AppData\Local\Temporary Projects\TMatrix\bin\Debug\TMatrix.exe
+C:\Users\Anna\AppData\Local\Temporary Projects\TMatrix\bin\Debug\TMatrix.pdb
+C:\Users\Anna\AppData\Local\Temporary Projects\TMatrix\obj\x86\Debug\TMatrix.exe
+C:\Users\Anna\AppData\Local\Temporary Projects\TMatrix\obj\x86\Debug\TMatrix.pdb
+D:\Project c#\TMatrix\TMatrix\obj\x86\Debug\TMatrix.exe
+D:\Project c#\TMatrix\TMatrix\obj\x86\Debug\TMatrix.pdb
